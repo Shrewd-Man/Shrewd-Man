@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shrewd-Man
+- 🌱 I’m currently learning Jave, and C
+- 📫 You can DM me on X at x.com/OldAppleTech or email me at andersonkennethw@outlook.com
+- ⚡ Fun fact: I collect retro game consoles, play music, and love physics
