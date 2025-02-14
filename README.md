@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Shrewd-Man
-- 🌱 I’m currently learning Jave, and C
-- 📫 You can DM me on X at x.com/OldAppleTech or email me at andersonkennethw@outlook.com
-- ⚡ Fun fact: I collect retro game consoles, play music, and love physics
+- Hi, I’m @Shrewd-Man
+- I’m currently learning Java, and C
+- I'm pretty knowledgeable in Python
+- You can DM me on X at x.com/OldAppleTech or email me at andersonkennethw@outlook.com
+- Fun fact: I collect retro game consoles, play music, and love physics
