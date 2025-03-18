@@ -1,5 +1,4 @@
 - Hi, I’m @Shrewd-Man
-- I’m currently learning Java, and C
-- I'm pretty knowledgeable in Python
+- I’m currently pretty confident in Java, C, and 6502 Assembly, and I'm pretty knowledgeable in Python as well!
 - You can DM me on X at x.com/OldAppleTech or email me at andersonkennethw@outlook.com
-- Fun fact: I collect retro game consoles, play music, and love physics
+- Fun fact: I collect retro game consoles, play music, and love physics. Most of my programming is low-level nowadays. I started (like most) with Python, and I've been exploring more and more ever since. C caught my attention a while ago and I instantly fell in love with it, and that's now my go-to.
