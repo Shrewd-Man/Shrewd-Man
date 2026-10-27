@@ -1,4 +1,4 @@
-- Hi, I’m @Shrewd-Man, a Systems Engineer at Lockheed Martin
-- I’m currently pretty confident in Java, C, and 6502 Assembly, and I'm pretty knowledgeable in Python as well!
+- Hi, I’m @Shrewd-Man, a systems engineer and software developer
+- I have experience in Java, C, and 6502 Assembly, and Python as well!
 - You can email me at andersonkennethw@outlook.com
 - Fun fact: I collect retro game consoles, play music, shoot film photography, and love physics. Most of my programming is low-level nowadays. I started (like most) with Python, and I've been exploring more and more ever since. C caught my attention a while ago and I instantly fell in love with it, and that's now my go-to.
